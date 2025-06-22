@@ -1,0 +1,9 @@
+transformers
+langchain
+pandas
+scikit-learn
+torch
+
+
+
+
